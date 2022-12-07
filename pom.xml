@@ -15,8 +15,8 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <java.version>1.8</java.version>
-        <jackson-databind.version>2.10.2</jackson-databind.version>
-        <commons-compress.version>1.9</commons-compress.version>
+        <jackson-databind.version>2.14.1</jackson-databind.version>
+        <commons-compress.version>1.21</commons-compress.version>
         <xz.version>1.4</xz.version>
     </properties>
 
